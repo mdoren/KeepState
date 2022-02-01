@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeepState</string>
+    <string name="Press_Me">Press Me</string>
+    <string name="RadioButton">Radio Button</string>
+</resources>
